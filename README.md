@@ -1,5 +1,5 @@
 # Kumpulan Rumus Metode Numeris
-Last update: 4 Mar 2021
+Last update: 13 Mar 2021
 
 ## [Root of Equation &rarr;](https://colab.research.google.com/github/lutfiandri/numerical-methods-notebook/blob/main/01%20-%20Root%20of%20Equation.ipynb)
 
