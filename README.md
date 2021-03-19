@@ -1,4 +1,5 @@
 # Kumpulan Rumus Metode Numeris
+
 Last update: 13 Mar 2021
 
 ## [Root of Equation &rarr;](https://colab.research.google.com/github/lutfiandri/numerical-methods-notebook/blob/main/01%20-%20Root%20of%20Equation.ipynb)
@@ -18,3 +19,11 @@ Last update: 13 Mar 2021
 - Metode Iterasi
   - Jacobi
   - Gauss-Seidel
+
+## [Regression &rarr;](https://colab.research.google.com/github/lutfiandri/numerical-methods-notebook/blob/main/03%20-%20Regression.ipynb)
+
+- Regresi Linear
+  - $y = a + bx$
+- Regresi Non-Linear
+  - $y = ax^b$
+  - $y = ae^{bx}$
