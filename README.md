@@ -23,7 +23,7 @@ Last update: 19 Mar 2021
 ## [Regression &rarr;](https://colab.research.google.com/github/lutfiandri/numerical-methods-notebook/blob/main/03%20-%20Regression.ipynb)
 
 - Regresi Linear
-  - $y = a + bx$
+  - `y = a + bx`
 - Regresi Non-Linear
-  - $y = ax^b$
-  - $y = ae^{bx}$
+  - `y = ax^b`
+  - `y = ae^(bx)`
