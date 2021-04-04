@@ -34,7 +34,7 @@ Last update: 4 Apr 2021
 
 **maap belum rapi**
 
-- Newton Divided Diference (PBH)
+- Newton Divided Difference (PBH)
   - Orde 1
   - Orde 2
   - Orde 3
