@@ -1,6 +1,6 @@
 # Kumpulan Rumus Metode Numeris
 
-Last update: 23 Mar 2021
+Last update: 4 Apr 2021
 
 ## [Root of Equation &rarr;](https://colab.research.google.com/github/lutfiandri/numerical-methods-notebook/blob/main/01%20-%20Root%20of%20Equation.ipynb)
 
@@ -8,8 +8,10 @@ Last update: 23 Mar 2021
   - Bisection
   - False Position
 - Open Method
+  - Fixed Point Iteration
   - Newton Raphson
   - Secant
+  - Modified Secant
 
 ## [Linear Simultan &rarr;](https://colab.research.google.com/github/lutfiandri/numerical-methods-notebook/blob/main/02%20-%20Linear%20Simultan.ipynb)
 
@@ -32,7 +34,8 @@ Last update: 23 Mar 2021
 
 **maap belum rapi**
 
-- Orde 1
-- Orde 2
-- Orde 3
-- Orde 4
+- Newton Divided Diference (PBH)
+  - Orde 1
+  - Orde 2
+  - Orde 3
+  - Orde 4
