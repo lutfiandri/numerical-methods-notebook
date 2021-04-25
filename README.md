@@ -1,6 +1,6 @@
 # Kumpulan Rumus Metode Numeris
 
-Last update: 4 Apr 2021
+Last update: 25 Apr 2021
 
 ## [Root of Equation &rarr;](https://colab.research.google.com/github/lutfiandri/numerical-methods-notebook/blob/main/01%20-%20Root%20of%20Equation.ipynb)
 
@@ -39,3 +39,12 @@ Last update: 4 Apr 2021
   - Orde 2
   - Orde 3
   - Orde 4
+
+## [Numerical Integration &rarr;](https://colab.research.google.com/github/lutfiandri/numerical-methods-notebook/blob/main/05%20-%20Numerical%20Integration.ipynb)
+
+- Trapezoidal Rule
+- Simpson's Rule
+  - Simpons's 1/3 Rule
+  - Simpons's 3/8 Rule
+- Romberg Integration
+- Gauss Quadrature
