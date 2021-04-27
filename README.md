@@ -48,3 +48,16 @@ Last update: 25 Apr 2021
   - Simpons's 3/8 Rule
 - Romberg Integration
 - Gauss Quadrature
+
+## [Ordinary Differential Equation &rarr;](https://colab.research.google.com/github/lutfiandri/numerical-methods-notebook/blob/main/06%20-%20Ordinary%20Differential%20Equation.ipynb)
+
+- Euler
+- Heun
+- Midpoint
+- Runge-Kutta
+  - 2nd order
+    - RK12 | Heun with single corrector
+    - RK1 | Midpoint
+    - RK23 | Ralston
+  - RK3 | 3rd order
+  - RK4 | 4th order
