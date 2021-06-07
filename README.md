@@ -1,6 +1,6 @@
 # Kumpulan Rumus Metode Numeris
 
-Last update: 25 Apr 2021
+Last update: 7 Jun 2021
 
 ## [Root of Equation &rarr;](https://colab.research.google.com/github/lutfiandri/numerical-methods-notebook/blob/main/01%20-%20Root%20of%20Equation.ipynb)
 
@@ -61,3 +61,10 @@ Last update: 25 Apr 2021
     - RK23 | Ralston
   - RK3 | 3rd order
   - RK4 | 4th order
+
+## [Partial Differential Equation &rarr;](https://colab.research.google.com/github/lutfiandri/numerical-methods-notebook/blob/main/07%20-%20Partial%20Differential%20Equation.ipynb)
+
+- Metode Parabola
+  - Eksplisit
+  - Implisit
+  - Crakn-Nicolson
