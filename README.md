@@ -67,4 +67,4 @@ Last update: 7 Jun 2021
 - Metode Parabola
   - Eksplisit
   - Implisit
-  - Crakn-Nicolson
+  - Crank-Nicolson
